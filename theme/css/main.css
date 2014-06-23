@@ -197,7 +197,7 @@ article header time {
     color: #bbb;
     font-style: italic;
     margin-top: 0.5rem;
-    display: block;
+    //display: block;
 }
 
 article header time:before {
