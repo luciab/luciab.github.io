@@ -239,6 +239,11 @@ header.article h2 a {
     box-shadow: 0 0 48px 0 rgba(0,0,0,0.15);
 }
 
+.share-buttons {
+    width: 40px;
+    float: right;
+}
+
 .article-meta dl {
     color: #ccc;
     font-style: italic;
