@@ -18,6 +18,7 @@
 
         <link rel="stylesheet" href="http://luciab.github.io/theme/css/bootstrap.min.css">
         <link rel="stylesheet" href="http://luciab.github.io/theme/css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="http://luciab.github.io/theme/css/font-awesome.min.css">
         <link rel="stylesheet" href="http://luciab.github.io/theme/css/colorbox.css">
 
         <link rel="stylesheet" href="http://luciab.github.io/theme/css/main.css">
@@ -25,73 +26,86 @@
         <script src="http://luciab.github.io/theme/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
     <body>
-        <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
 
         <div class="container">
             <div class="row">
-                <div class="span8">
-                    <header id="site-header">
-                        <h1>
-                            <a href="http://luciab.github.io">Lucía Art</a>
-                            <small>
-                                <span class="divider">/</span> 
-                            </small>
-                        </h1>
-                        <p>
-                            
-                        </p>
-                    </header>
+                <div class="span9">
+                    <div class="row">
+                        <div class="span2"> <!-- logo -->
+                            <div id="logo">
+                                <a href="http://luciab.github.io">
+                                    <img alt="Lucía Art" src="/static/logo.png" />
+                                </a>
+                            </div> <!-- logo -->
+                        </div> <!-- logo span -->
 
-                    <div class="content">
+                        <div class="span7"> <!-- header -->
+                            <!--[if lt IE 9]>
+                                <p class="chromeframe alert alert-warning">You are using an <strong>outdated</strong> browser, and this site might not look best in it. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+                            <![endif]-->
+                            <header id="site-header">
+                                <div id="site-header-content">
+                                    <h1>
+                                        <a href="http://luciab.github.io">Lucía Art</a>
+                                        <small>
+                                            <span class="divider">/</span> 
+                                        </small>
+                                    </h1>
+                                    <p>
+                                        
+                                    </p>
+                                </div>
+                            </header>
+                        </div> <!-- header span -->
+                    </div> <!-- header row -->
+
+                    <div class="row"> <!-- content -->
+                        <div class="content">
     <h1>Tags for Lucía Art</h1>        <li><a href="http://luciab.github.io/tag/pizarra.html">pizarra</a> (1)</li>
         <li><a href="http://luciab.github.io/tag/resina.html">resina</a> (1)</li>
-                    </div>
+                        </div>
+                    </div> <!-- content row -->
 
-                    <footer id="site-footer">
-                        <p>
-                            <a href="" target="_blank">
-                                
-                            </a> Lucía B. /
-                            <a href="http://luciab.github.io/">Archives</a>
-                        </p>
-                        <p>
-                            Powered by
-                            <a href="https://github.com/getpelican/pelican" target="_blank">
-                                Pelican
-                            </a>
-                            /
-                            </a>
-                        </p>
-                    </footer>
+                    <div class="row"> <!-- footer -->
+                        <div class="span7 offset2">
+                            <footer id="site-footer">
+                                <p>
+                                    <a href="" target="_blank">
+                                        
+                                    </a> Lucía B. /
+                                    <a href="http://luciab.github.io/">Archives</a>
+                                </p>
+                                <p>
+                                    Powered by
+                                    <a href="https://github.com/getpelican/pelican" target="_blank">
+                                        Pelican
+                                    </a>
+                                </p>
+                            </footer>
+                        </div> <!-- footer span -->
+                    </div> <!-- footer row -->
                 </div> <!-- header+content+footer span -->
 
-                <div class="span4">
-                    <aside id="sidebar">
-                        <div id="social-icons">
-			    <span class="social-icon">
-				    <a href="http://luciab.github.io/feeds/all.atom.xml" rel="alternate"><img src="http://luciab.github.io/theme/img/RSS.png" alt="Atom" /></a>
-			    </span>
-                                <span class="social-icon">
-                                    <a href="https://github.com/luciab/" target="_blank" title="GitHub">
-                                        <img src="http://luciab.github.io/theme/img/GitHub.png" alt="GitHub"/>
-                                    </a>
-                                </span>
-                                <span class="social-icon">
-                                    <a href="https://www.facebook.com/" target="_blank" title="Facebook">
-                                        <img src="http://luciab.github.io/theme/img/Facebook.png" alt="Facebook"/>
-                                    </a>
-                                </span>
-                        </div>
+                <div class="span3">
+                    <aside class="affix">
+                        <div id="sidebar">
+                            <div id="social-icons">
+				  <span class="social-icon">
+					  <a href="http://luciab.github.io/feeds/all.atom.xml" rel="alternate"><i class="icon-rss"></i></a>
+			          </span>
+                                    <span class="social-icon">
+                                        <a href="https://github.com/luciab/" target="_blank" title="GitHub">
+                                            <i class="icon-github-alt"></i>
+                                        </a>
+                                    </span>
+                                    <span class="social-icon">
+                                        <a href="https://www.facebook.com/" target="_blank" title="Facebook">
+                                            <i class="icon-facebook"></i>
+                                        </a>
+                                    </span>
+                            </div>
 
-                        <div id="site-logo">
-                            <a href="http://luciab.github.io">
-                                <img alt="Lucía Art" src="/static/logo.png" />
-                            </a>
-                        </div>
-
-                        <div id="navigation">
+                            <div id="navigation">
 <nav>
 	<h2>Pages</h2>
 	<ul>
@@ -117,10 +131,19 @@
 			</ul>
 		</li>
 	</ul>
-</nav>                        </div>
+</nav>                            </div>
+                        </div> <!-- sidebar -->
+
+                        <p id="back-to-top">
+                            <a href="#">
+                                <i class="icon-double-angle-up"></i> Back to top
+                            </a>
+                        </p>
+
                     </aside>
                 </div> <!-- logo+navigation span -->
             </div> <!-- row -->
+
         </div> <!-- /container -->
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -129,12 +152,13 @@
         <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/js/bootstrap.min.js"></script>
         <script>$('body').popover || document.write('<script src="http://luciab.github.io/theme/js/vendor/bootstrap.min.js"><\/script>')</script>
 
+        <script src="http://luciab.github.io/theme/js/jquery.captions.js"></script>
         <script src="http://luciab.github.io/theme/js/vendor/jquery.colorbox-min.js"></script>
 
         <script src="http://luciab.github.io/theme/js/main.js"></script>
 
         <script>
-            var _gaq=[['_setAccount','UA-52177190-1'],['_trackPageview']];
+            var _gaq=[['_setAccount','UA-52177190-1'],['_trackPageview'],['_trackPageLoadTime'],['_gat._anonymizeIp']];
             (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
             g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
             s.parentNode.insertBefore(g,s)}(document,'script'));
