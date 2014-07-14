@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lucía Art</title><link href="http://luciab.github.io/" rel="alternate"></link><link href="http://luciab.github.io/feeds/sculpture.atom.xml" rel="self"></link><id>http://luciab.github.io/</id><updated>2014-07-14T00:00:00+02:00</updated><entry><title>Parella de espaldas</title><link href="http://luciab.github.io/parella-de-espaldas.html" rel="alternate"></link><updated>2014-07-14T00:00:00+02:00</updated><author><name>Lucía B.</name></author><id>tag:luciab.github.io,2014-07-14:parella-de-espaldas.html</id><summary type="html">&lt;!--  --&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucía Art</title><link>http://luciab.github.io/</link><description></description><atom:link href="http://luciab.github.io/feeds/lucia-b.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 14 Jul 2014 00:00:00 +0200</lastBuildDate><item><title>Parella de espaldas</title><link>http://luciab.github.io/parella-de-espaldas.html</link><description>&lt;!--  --&gt;
 &lt;img alt="Couple" src="images/Couple_2.png" style="width: 600px;" /&gt;
 &lt;!--  --&gt;
 &lt;ul class="simple"&gt;
@@ -9,10 +9,10 @@
 &lt;/ul&gt;
 &lt;p&gt;A pesar de ser exigido hasta el límite, no falló el equipo de Löw en el último esfuerzo, ganador precisamente cuando su jerarquía en la cancha estuvo más discutida que nunca por un contrario muy crecido y mejorado, un coloso defensivamente, solo falto del gol de Messi. A Argentina de nada les sirvió llevar al 10 hasta Maracaná y a Alemania hasta la prórroga, dominada por el mejor equipo del torneo, cuatro veces campeón, la selección de moda por su riqueza futbolística y juego coral, digno sucesor de España. No fue el Mundial de Messi sino de&amp;nbsp;Alemania.&lt;/p&gt;
 &lt;p&gt;La Argentina de Messi jugó siempre de orgullosa visitante, a la contra, también la final, que disputó con su zamarra azul por la condición de local de Alemania. Nadie habla bien de La Albiceleste, y menos la anfitriona Brasil, martirizada por el cancionero de la hinchada que tomó las sedes de la Copa en que jugaba Argentina. El calor de su afición ha sido el combustible de un equipo cuyo mayor elogio recibido fue el de su competitividad, una manera elegante de no hablar de fútbol sino de cuantas cosas le rodean, no siempre para bien, y hay que ser respetuosos con&amp;nbsp;Argentina.&lt;/p&gt;
-</summary><category term="resina"></category><category term="óleo"></category><category term="amarillo"></category></entry><entry><title>Couple hugging</title><link href="http://luciab.github.io/couple-hugging.html" rel="alternate"></link><updated>2014-06-01T10:02:00+02:00</updated><author><name>Lucía B.</name></author><id>tag:luciab.github.io,2014-06-01:couple-hugging.html</id><summary type="html">&lt;img alt="Couple" src="images/Couple.jpg" style="width: 600px;" /&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lucía B.</dc:creator><pubDate>Mon, 14 Jul 2014 00:00:00 +0200</pubDate><guid>tag:luciab.github.io,2014-07-14:parella-de-espaldas.html</guid><category>resina</category><category>óleo</category><category>amarillo</category></item><item><title>Couple hugging</title><link>http://luciab.github.io/couple-hugging.html</link><description>&lt;img alt="Couple" src="images/Couple.jpg" style="width: 600px;" /&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Material:&amp;nbsp;Resina.&lt;/li&gt;
 &lt;li&gt;Medidas: 30 x 20 x 10&amp;nbsp;cm.&lt;/li&gt;
 &lt;li&gt;Precio:&amp;nbsp;200€.&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="resina"></category><category term="pizarra"></category></entry></feed>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lucía B.</dc:creator><pubDate>Sun, 01 Jun 2014 10:02:00 +0200</pubDate><guid>tag:luciab.github.io,2014-06-01:couple-hugging.html</guid><category>resina</category><category>pizarra</category></item></channel></rss>
