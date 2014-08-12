@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lucía Art</title><link href="http://luciab.github.io/" rel="alternate"></link><link href="http://luciab.github.io/feeds/lucia-b.atom.xml" rel="self"></link><id>http://luciab.github.io/</id><updated>2014-07-14T00:00:00+02:00</updated><entry><title>Parella de espaldas</title><link href="http://luciab.github.io/parella-de-espaldas.html" rel="alternate"></link><updated>2014-07-14T00:00:00+02:00</updated><author><name>Lucía B.</name></author><id>tag:luciab.github.io,2014-07-14:parella-de-espaldas.html</id><summary type="html">&lt;img alt="Couple" src="images/Couple_2.png" style="width: 600px;" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lucía Art</title><link href="http://luciab.github.io/" rel="alternate"></link><link href="http://luciab.github.io/feeds/lucia-b.atom.xml" rel="self"></link><id>http://luciab.github.io/</id><updated>2014-07-14T00:00:00+02:00</updated><entry><title>Muller meditando</title><link href="http://luciab.github.io/muller-meditando.html" rel="alternate"></link><updated>2014-07-14T00:00:00+02:00</updated><author><name>Lucía B.</name></author><id>tag:luciab.github.io,2014-07-14:muller-meditando.html</id><summary type="html">&lt;img alt="Note thinking" src="images/Note_thinking_small.png" style="width: 600px;" /&gt;
 &lt;p&gt;Más&lt;/p&gt;
+&lt;p&gt;Ver a &lt;a class="reference external" href="images/Note_thinking.png"&gt;maior resolución&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Material:&amp;nbsp;Resina.&lt;/li&gt;
+&lt;li&gt;Medidas: 35 x 30 x 15&amp;nbsp;cm.&lt;/li&gt;
+&lt;li&gt;Precio:&amp;nbsp;250€.&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="resina"></category><category term="óleo"></category><category term="verde"></category><category term="naranja"></category></entry><entry><title>Parella de espaldas</title><link href="http://luciab.github.io/parella-de-espaldas.html" rel="alternate"></link><updated>2014-07-14T00:00:00+02:00</updated><author><name>Lucía B.</name></author><id>tag:luciab.github.io,2014-07-14:parella-de-espaldas.html</id><summary type="html">&lt;img alt="Couple" src="images/Couple_2_small.png" style="width: 600px;" /&gt;
+&lt;p&gt;Más&lt;/p&gt;
+&lt;p&gt;Ver a &lt;a class="reference external" href="images/Couple_2.png"&gt;maior resolución&lt;/a&gt;.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Material:&amp;nbsp;Resina.&lt;/li&gt;
 &lt;li&gt;Medidas: 30 x 20 x 10&amp;nbsp;cm.&lt;/li&gt;
